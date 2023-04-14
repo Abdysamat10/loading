@@ -55,13 +55,6 @@ button:hover {
 	position: relative;
 	right: 25px;
 }
-img{
-	position: absolute;
-	right: -60px;
-	top: -5px;
-	width: 50px;
-	height: 50px;
-}
 li {
 	color: #fff;
 	padding-top: 15px;
